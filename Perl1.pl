@@ -1,3 +1,7 @@
+# Łukasz Maćkiewicz
+# 39348
+# 31B
+# Zadanie na ocenę 3.0
 #!/usr/bin/perl
 use Cwd;
 if(@ARGV != undef){
