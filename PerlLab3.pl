@@ -1,3 +1,7 @@
+# Łukasz Maćkiewicz
+# 39348
+# 31B
+# Zadanie na ocenę 3.0
 #!/usr/bin/perl
 package classA;
 open (FH, ">file2.csv") or die "$!";
